@@ -5,7 +5,7 @@ a=int(input("Enter a:"))
 b=int(input("Enter b:"))
 c=int(input("Enter c:"))
 if (a==0):
-    print("Value of",a,"should not be zero")
+    print("Value of 'a' should not be zero")
     print("\n Aborting!!!!!!")
 else:
     delta=b**2-4*a*c
