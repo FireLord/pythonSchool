@@ -8,7 +8,7 @@ for row in range(1, 6):
     print()
 
 # userDep row.
-# BUG: row will be generated (n*2)-1 times
+# FIXME: row will be generated (n*2)-1 times
 n = int(input("Enter num of rows:"))
 for row in range(1, n+1):
     for col in range(1, 2*n):
