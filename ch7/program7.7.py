@@ -21,4 +21,4 @@ while i < length:
         i+=1
 print("Original list:",lst)
 print("Unique elements list",uniq)
-print("Duplicate elements lust",dupl)
+print("Duplicate elements list",dupl)
