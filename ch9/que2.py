@@ -12,7 +12,7 @@ while i>0:
         for a in t1:
             l1+=a
         for b in l1:
-            if productName==a:
+            if productName==b:
                 print("Price of",productName,"is",d1[productName])
             else:
                 print("Product not in dict.")
