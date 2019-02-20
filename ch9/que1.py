@@ -13,4 +13,4 @@ teamNameList=input("Enter team:")
 val=d1[teamNameList]
 total=val[0]+val[1]
 winPer=(val[0]/total)*100
-print(teamNameList,"winning percentage is",total)
+print(teamNameList,"winning percentage is",winPer)
